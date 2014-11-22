@@ -1,7 +1,7 @@
 baseurl: /jekyllcn
 markdown: kramdown
 highlighter: pygments
-relative_permalinks: false
+relative_permalinks: true
 permalink: /news/:year/:month/:day/:title/
 excerpt_separator: noifniof3nioaniof3nioafafinoafnoif
 
