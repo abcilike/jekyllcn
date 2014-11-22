@@ -2,7 +2,7 @@
 layout: docs
 title: 欢迎
 next_section: quickstart
-
+permalink: /docs/home/
 contributor: xcatliu
 ---
 
