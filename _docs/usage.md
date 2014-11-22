@@ -3,7 +3,7 @@ layout: docs
 title: 基本用法
 prev_section: installation
 next_section: structure
-permalink: /docs/home/
+permalink: /docs/usage/
 contributor: Neo-J
 ---
 
