@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: /jekyllcn
 markdown: kramdown
 highlighter: pygments
 relative_permalinks: true
